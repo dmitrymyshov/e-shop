@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "ComfortaRegular";
+    url("../fonts/Comfortaa-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "ComfortaBold";
+    url("../fonts/Comfortaa-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "ComfortaLight";
+    url("../fonts/Comfortaa-Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
